@@ -1,3 +1,6 @@
+<img width="702" height="1600" alt="WhatsApp Image 2026-07-31 at 8 39 44 PM" src="https://github.com/user-attachments/assets/f07b5344-a10e-4401-a63a-eee345cd4a6f" />
+
+
 # smart_admin_dashboard
 
 A new Flutter project.
